@@ -13,7 +13,7 @@ function SubmitForm(event) {
     email: email,
     phone: phone,
     message: message,
-    access_key: "620f2d89-85c1-4d2a-a1c5-837d803992ea",
+    access_key: "4ab4d6da-358c-47c5-a7ed-58db18660cc4",
   };
 
   fetch("https://api.web3forms.com/submit", {
